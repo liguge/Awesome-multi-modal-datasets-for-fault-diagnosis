@@ -268,3 +268,7 @@
 
 
    - https://data.mendeley.com/datasets/rcxgmdxhbr/1
+
+
+
+[![Hits](https://hits.sh/github.com/github.com/liguge/Awesome-multi-modal-datasets-for-fault-diagnosis.svg?label=Views&color=0891b2)](https://hits.sh/github.com/liguge/Awesome-multi-modal-datasets-for-fault-diagnosis/)
